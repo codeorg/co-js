@@ -1,0 +1,25 @@
+{
+  "name": "co-js",
+  "version": "0.1.1",
+  "description": "codeorg core javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeorg/co-js.git"
+  },
+  "keywords": [
+    "codeorg"
+  ],
+  "author": "codeorg.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeorg/co-js/issues"
+  },
+  "homepage": "https://github.com/codeorg/co-js#readme",
+  "dependencies": {
+    "co-util": "^0.1.11"
+  }
+}
